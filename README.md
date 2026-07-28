@@ -1,4 +1,4 @@
-# SmartPOS Payment Demo
+# Kopokopo payment integration end-to-end
 
 A full-stack payment demo that integrates M-Pesa Daraja and KopoKopo for STK Push payments, webhook handling, transaction tracking, and real-time updates.
 
