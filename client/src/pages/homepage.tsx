@@ -19,7 +19,6 @@ const HomePage = () => {
 
         {/* Header */}
         <div className="text-center mb-10">
-          
 
           <h1 className="text-5xl font-black tracking-tight text-gray-900">
             SmartPOS
@@ -60,10 +59,6 @@ const HomePage = () => {
                 </div>
 
               </div>
-
-              <span className="px-3 py-1 rounded-full bg-green-100 text-green-700 text-xs font-semibold">
-                LIVE
-              </span>
 
             </div>
 
