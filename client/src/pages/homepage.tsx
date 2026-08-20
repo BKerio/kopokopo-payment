@@ -20,9 +20,6 @@ const HomePage = () => {
         {/* Header */}
         <div className="text-center mb-10">
 
-          <h1 className="text-5xl font-black tracking-tight text-gray-900">
-            SmartPOS
-          </h1>
 
           <p className="mt-3 text-gray-500">
             Choose your preferred payment provider
@@ -72,9 +69,6 @@ const HomePage = () => {
                 Express Checkout
               </span>
 
-              <span className="px-3 py-1 rounded-full bg-gray-100 text-gray-600 text-sm">
-                Secure API
-              </span>
 
             </div>
 
@@ -110,9 +104,6 @@ const HomePage = () => {
 
                 <span className="w-2 h-2 rounded-full bg-orange-500 animate-pulse"></span>
 
-                <span className="text-xs font-semibold text-orange-700">
-                  SANDBOX
-                </span>
 
               </div>
 
