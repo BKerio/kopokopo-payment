@@ -196,10 +196,6 @@ const HomePage = () => {
 
           </div>
 
-          <p className="text-xs text-gray-400 mt-5">
-            Version 1.0 • Powered by Safaricom Daraja & KopoKopo APIs
-          </p>
-
         </div>
 
       </div>
