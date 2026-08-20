@@ -19,9 +19,7 @@ const HomePage = () => {
 
         {/* Header */}
         <div className="text-center mb-10">
-          <div className="inline-flex items-center justify-center w-16 h-16 rounded-3xl bg-white shadow-md border border-gray-200 mb-5">
-            <ShieldCheck className="w-8 h-8 text-slate-800" />
-          </div>
+          
 
           <h1 className="text-5xl font-black tracking-tight text-gray-900">
             SmartPOS
