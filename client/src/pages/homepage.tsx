@@ -22,7 +22,7 @@ const HomePage = () => {
 
 
           <p className="mt-3 text-gray-500">
-            Choose your preferred payment providerjj
+            Choose your preferred payment provider
           </p>
         </div>
 
