@@ -10,7 +10,7 @@ function App() {
   return (
     <ThemeProvider defaultTheme="system">
       <Router>
-        <div className="min-h-screen bg-white dark:bg-gray-900 flex flex-col">
+        <div className="min-h-screen bg-background text-foreground flex flex-col">
           <main className="flex-grow">
             <Routes>
               <Route path="/" element={<HomePage />} />
