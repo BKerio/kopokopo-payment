@@ -1,5 +1,7 @@
 # Kopokopo payment integration end-to-end
 
+Toolkit
+
 A full-stack payment demo that integrates M-Pesa Daraja and KopoKopo for STK Push payments, webhook handling, transaction tracking, and real-time updates.
 
 This project is split into two parts:
