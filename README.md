@@ -6,6 +6,9 @@
 
 # KopoKopo & M-Pesa Payments: End-to-End Integration
 
+
+Kopokopo
+
 A full-stack reference integration for collecting **M-Pesa STK Push** payments through both **Safaricom Daraja** and **KopoKopo**, with webhook processing, MongoDB persistence, and real-time UI updates over Socket.IO.
 
 ![Node.js](https://img.shields.io/badge/Node.js-18%2B-339933?logo=node.js&logoColor=white)
